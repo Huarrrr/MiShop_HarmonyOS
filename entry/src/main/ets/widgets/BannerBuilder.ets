@@ -28,7 +28,6 @@ export struct BannerBuilder {
     })
     .width('100%')
     .height(180)
-
   }
 
   @Builder

@@ -10,6 +10,7 @@ import { Response } from './model/Response';
 import data from '@ohos.telephony.data';
 import image from '@ohos.multimedia.image';
 import { CategoryData } from './model/CategoryBean';
+import { GoodData } from './model/GoodBean';
 
 let TAG = "Api";
 
@@ -100,9 +101,16 @@ export default class Api {
   async getHomeBanner(): Promise<Response<Array<Banner>>> {
     return requestSync("/api/focus", http.RequestMethod.GET);
   }
+  async getHotBanner(): Promise<Response<Array<Banner>>> {
+    return requestSync("/api/focus?position=2", http.RequestMethod.GET);
+  }
 
   async getHomeCategory(): Promise<Response<Array<CategoryData>>> {
     return requestSync("/api/bestCate", http.RequestMethod.GET);
+  }
+
+  async getHotGood(): Promise<Response<Array<GoodData>>> {
+    return requestSync("/api/plist?is_hot=1&pageSize=3", http.RequestMethod.GET);
   }
 
 }
