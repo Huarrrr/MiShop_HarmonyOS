@@ -1,0 +1,103 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "该模板实现了名片详情页功能"
+    },
+    {
+      "name": "ability_desc",
+      "value": "该Ability加载显示主Page的内容"
+    },
+    {
+      "name": "ability_label",
+      "value": "Mi Shop"
+    },
+    {
+      "name": "title_name",
+      "value": "关于"
+    },
+    {
+      "name": "icon_name",
+      "value": "Mi Shop 应用"
+    },
+    {
+      "name": "version_label",
+      "value": "版本: %s"
+    },
+    {
+      "name": "about_us",
+      "value": "关于我们"
+    },
+    {
+      "name": "contact_customer_service",
+      "value": "联系客服"
+    },
+    {
+      "name": "home_page",
+      "value": "官方网站"
+    },
+    {
+      "name": "home_weblink",
+      "value": "www.xxx.com"
+    },
+    {
+      "name": "public_account",
+      "value": "公众号"
+    },
+    {
+      "name": "account_name",
+      "value": "hooer"
+    },
+    {
+      "name": "service_hotline",
+      "value": "客服热线"
+    },
+    {
+      "name": "hotline_number",
+      "value": "12xxx"
+    },
+    {
+      "name": "email",
+      "value": "官方邮箱"
+    },
+    {
+      "name": "email_address",
+      "value": "xxx@yyy.com"
+    },
+    {
+      "name": "user_protocol",
+      "value": "XXX用户协议"
+    },
+    {
+      "name": "privacy_statement",
+      "value": "关于XXX与隐私的声明"
+    },
+    {
+      "name": "copyright",
+      "value": "版权所有 ©2022-2023 xx公司保留一切权利"
+    },
+    {
+      "name": "tech_support",
+      "value": "技术支持: xxxxxx"
+    },
+    {
+      "name": "and",
+      "value": " 和 "
+    },
+    {
+      "name": "detail_default_title",
+      "value": "默认标题"
+    },
+    {
+      "name": "detail_item_title",
+      "value": "标题"
+    },
+    {
+      "name": "arrow_title",
+      "value": "右侧文本"
+    }, {
+      "name": "internet_permission_reason",
+      "value": "获取网络数据"
+    }
+  ]
+}

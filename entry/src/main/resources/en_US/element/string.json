@@ -1,0 +1,103 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "This module template implements About functions."
+    },
+    {
+      "name": "ability_desc",
+      "value": "This ability loads AboutPage."
+    },
+    {
+      "name": "ability_label",
+      "value": "Mi Shop"
+    },
+    {
+      "name": "title_name",
+      "value": "Mi Shop"
+    },
+    {
+      "name": "icon_name",
+      "value": "Mi Shop Application"
+    },
+    {
+      "name": "version_label",
+      "value": "Version: %s"
+    },
+    {
+      "name": "about_us",
+      "value": "About us"
+    },
+    {
+      "name": "contact_customer_service",
+      "value": "Contact customer service"
+    },
+    {
+      "name": "home_page",
+      "value": "Official website"
+    },
+    {
+      "name": "home_weblink",
+      "value": "www.xxx.com"
+    },
+    {
+      "name": "public_account",
+      "value": "Public account"
+    },
+    {
+      "name": "account_name",
+      "value": "hooer"
+    },
+    {
+      "name": "service_hotline",
+      "value": "Service hotline"
+    },
+    {
+      "name": "hotline_number",
+      "value": "12xxx"
+    },
+    {
+      "name": "email",
+      "value": "Official email address"
+    },
+    {
+      "name": "email_address",
+      "value": "xxx@yyy.com"
+    },
+    {
+      "name": "user_protocol",
+      "value": "XXX user protocol"
+    },
+    {
+      "name": "privacy_statement",
+      "value": "Statement on XXX and Privacy"
+    },
+    {
+      "name": "copyright",
+      "value": "Copyright © 2022-2023 xx company all rights reserved"
+    },
+    {
+      "name": "tech_support",
+      "value": "Technical support: xxxxxx"
+    },
+    {
+      "name": "and",
+      "value": " and "
+    },
+    {
+      "name": "detail_default_title",
+      "value": "Default title"
+    },
+    {
+      "name": "detail_item_title",
+      "value": "Title"
+    },
+    {
+      "name": "arrow_title",
+      "value": "Right text"
+    }, {
+      "name": "internet_permission_reason",
+      "value": "获取网络数据"
+    }
+  ]
+}

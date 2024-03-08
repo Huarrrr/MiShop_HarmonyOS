@@ -1,0 +1,14 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "@ohos/materialprogressbar": "^2.0.2",
+    "@ohos/pulltorefresh": "2.0.1",
+    "@ohos/banner": "1.0.1-rc.0"
+  }
+}
+
